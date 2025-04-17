@@ -1,50 +1,40 @@
-Training at STMicroelectronics - Computer Arithmetic
-Welcome to my repository documenting the Computer Arithmetic training conducted at STMicroelectronics. This repository contains Verilog RTL implementations of various adders and multipliers, showcasing fundamental concepts in digital design.
+# STMicroelectronics Training – Computer Arithmetic
 
-Adders
-Brent Kung Adders
-8-bit Brent Kung Adder
+Welcome to my training repository at **STMicroelectronics**, focused on **Computer Arithmetic**. This repo includes Verilog RTL implementations of various high-performance **Adders** and **Multipliers**, reflecting industry-standard architectures and arithmetic design techniques.
 
-File: 8bit_brent_kung_adder.v
+---
 
-Description: Implements an 8-bit adder using the Brent Kung algorithm.
+## 📁 Repository Structure
 
-64-bit N-bit Brent Kung Adder
+### ➤ Adders (`/adders`)
+Contains implementations of the **Brent-Kung Adder**, a parallel-prefix adder architecture known for its logarithmic delay and efficient layout.
 
-File: 64bit_Nbit_brent_kung_adder.v
+- `brent_kung_8bit.v`  
+  → 8-bit Brent-Kung Adder
 
-Description: Implements a scalable N-bit adder (specifically 64-bit) using the Brent Kung algorithm.
+- `brent_kung_64bit.v`  
+  → 64-bit Brent-Kung Adder
 
-Usage
-Each adder module can be instantiated in your design by including the respective Verilog files.
+- `brent_kung_Nbit.v`  
+  → Parameterized Brent-Kung Adder for arbitrary bit-widths
 
-Multipliers
-Multiplier Types
-Shift Right Multiplier
+### ➤ Multipliers (`/multipliers`)
+Contains three different types of multipliers with varying performance, area, and latency trade-offs.
 
-File: shift_right_multiplier.v
+- `shift_right_multiplier.v`  
+  → Classic shift-right multiplication algorithm
 
-Description: Implements a multiplier using the shift-right method.
+- `radix8_multiplier.v`  
+  → Optimized Radix-8 Booth multiplier
 
-Radix-8 Multiplier
+- `array_multiplier.v`  
+  → Structured Array multiplier for regular layout and ease of synthesis
 
-File: radix8_multiplier.v
+---
 
-Description: Implements a multiplier using the radix-8 algorithm.
+## 🔧 Getting Started
 
-Array Multiplier
-
-File: array_multiplier.v
-
-Description: Implements a multiplier using an array-based approach.
-
-Usage
-Each multiplier module provides different implementations suited for various design requirements.
-
-Getting Started
-Clone the repository to your local machine.
-
-Integrate the adders and multipliers into your Verilog projects as needed.
-
-Acknowledgments
-Special thanks to STMicroelectronics for providing valuable training materials on Computer Arithmetic.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/STMicroelectronics-Computer-Arithmetic.git
+   cd STMicroelectronics-Computer-Arithmetic
