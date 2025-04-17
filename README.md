@@ -21,13 +21,13 @@ Contains implementations of the **Brent-Kung Adder**, a parallel-prefix adder ar
 ### ➤ Multipliers (`/multipliers`)
 Contains three different types of multipliers with varying performance, area, and latency trade-offs.
 
-- `shift_right_multiplier.v`  
+- `signed_right_mplier.v`  
   → Classic shift-right multiplication algorithm
 
-- `radix8_multiplier.v`  
+- `radix8_mplier.v`  
   → Optimized Radix-8 Booth multiplier
 
-- `array_multiplier.v`  
+- `signed_array_mplier.v`  
   → Structured Array multiplier for regular layout and ease of synthesis
 
 ---
