@@ -36,5 +36,5 @@ Contains three different types of multipliers with varying performance, area, an
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/STMicroelectronics-Computer-Arithmetic.git
+   git clone https://github.com/AbdelrahmanEA8/STM_Computer_Arithmetic
    cd STMicroelectronics-Computer-Arithmetic
