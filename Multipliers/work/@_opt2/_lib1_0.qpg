@@ -1,0 +1,522 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1740267117
+Vf>><aCoTi35mLoJQU:ZjZ1
+04 9 4 work mplier_tb fast 0
+=1-44e517ccfb3c-67ba5e6d-5c-4108
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1744754282
+V2bR=mNhCez=lTdJBcC_b>0
+04 25 4 work tb_array_multiplier_32bit fast 0
+=2-44e517ccfb3c-67fed669-182-36b8
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1744893420
+V]B;^T3ee2ga5zdC1gA4@`1
+04 16 4 work tb_radix8_mplier fast 0
+=1-44e517ccfb3c-6800f5ec-2f-2664
+R2
+R3
+R4
+n@_opt2
+R5
+varray_mplier
+!s110 1744804158
+!i10b 1
+!s100 fdP`a7@QjPW=W6GmS`c8m1
+I0b`ee1AZfD7C1hT3XPEPC0
+Z6 dD:/STMicroelectronics/Assignments/lab3
+w1744803618
+Z7 8D:/STMicroelectronics/Assignments/lab3/array_mplier.v
+Z8 FD:/STMicroelectronics/Assignments/lab3/array_mplier.v
+!i122 459
+L0 174 67
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1744804157.000000
+Z11 !s107 D:/STMicroelectronics/Assignments/lab3/array_mplier.v|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/STMicroelectronics/Assignments/lab3/array_mplier.v|
+!i113 0
+Z13 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+varray_multiplier
+!s110 1744805373
+!i10b 1
+!s100 1ofC@B`P^Tzn9OXJ32ULZ0
+I;h^46SdU<JVE[m@[h52_g2
+R6
+w1744805367
+8D:/STMicroelectronics/Assignments/lab3/signed_array_mplier.v
+FD:/STMicroelectronics/Assignments/lab3/signed_array_mplier.v
+!i122 473
+L0 93 90
+R9
+R10
+r1
+!s85 0
+31
+!s108 1744805373.000000
+!s107 D:/STMicroelectronics/Assignments/lab3/signed_array_mplier.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/STMicroelectronics/Assignments/lab3/signed_array_mplier.v|
+!i113 0
+R13
+R4
+varray_multiplier_32bit
+!s110 1744794193
+!i10b 1
+!s100 SPl:Q?QBDQBY=OnoNf>gE3
+IK=@TK:^FJS7G9;:;:UA5B0
+R6
+w1744794189
+R7
+R8
+!i122 390
+L0 87 93
+R9
+R10
+r1
+!s85 0
+31
+!s108 1744794193.000000
+R11
+R12
+!i113 0
+R13
+R4
+vCSA
+!s110 1744645677
+!i10b 1
+!s100 igQ^3]M8Y4K>V4BhW>7KQ2
+IZ[J_^aD?LBV_VnKa[h?YB0
+R6
+w1744633315
+8D:/STMicroelectronics/Assignments/lab3/CSA.v
+FD:/STMicroelectronics/Assignments/lab3/CSA.v
+!i122 347
+L0 1 12
+R9
+R10
+r1
+!s85 0
+31
+Z14 !s108 1744645677.000000
+!s107 D:/STMicroelectronics/Assignments/lab3/CSA.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/STMicroelectronics/Assignments/lab3/CSA.v|
+!i113 0
+R13
+R4
+n@c@s@a
+vCSA_tb
+Z15 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z16 !s110 1744645678
+!i10b 1
+!s100 k]MLebJbSiJNRcQDHYCYd0
+I:mcj?PGd]ba1RYZE>Nc?:0
+S1
+R6
+w1744633447
+8D:/STMicroelectronics/Assignments/lab3/csa_tb.sv
+FD:/STMicroelectronics/Assignments/lab3/csa_tb.sv
+!i122 350
+L0 3 61
+R9
+R10
+r1
+!s85 0
+31
+R14
+!s107 D:/STMicroelectronics/Assignments/lab3/csa_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/STMicroelectronics/Assignments/lab3/csa_tb.sv|
+!i113 0
+Z17 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@c@s@a_tb
+vfull_adder
+Z18 !s110 1744815796
+!i10b 1
+!s100 l7fzZEWgjdOG[?i0cVbAL2
+I>fdDOfWbF6`h=gcj2T5oV1
+R6
+w1744753701
+8D:/STMicroelectronics/Assignments/lab3/full_adder.v
+FD:/STMicroelectronics/Assignments/lab3/full_adder.v
+!i122 535
+L0 1 11
+R9
+R10
+r1
+!s85 0
+31
+Z19 !s108 1744815796.000000
+!s107 D:/STMicroelectronics/Assignments/lab3/full_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/STMicroelectronics/Assignments/lab3/full_adder.v|
+!i113 0
+R13
+R4
+vmplier
+Z20 !s110 1744834843
+!i10b 1
+!s100 VEaJF:lkkVSKchJHE=k;c3
+ITTT25BE=Bce8`EV>BY5k13
+Z21 dD:/STMicroelectronics/Assignments/Multipliers
+w1744818032
+8D:/STMicroelectronics/Assignments/Multipliers/unsigned_right_shift_mplier.v
+FD:/STMicroelectronics/Assignments/Multipliers/unsigned_right_shift_mplier.v
+!i122 598
+L0 1 32
+R9
+R10
+r1
+!s85 0
+31
+Z22 !s108 1744834843.000000
+!s107 D:/STMicroelectronics/Assignments/Multipliers/unsigned_right_shift_mplier.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/STMicroelectronics/Assignments/Multipliers/unsigned_right_shift_mplier.v|
+!i113 0
+R13
+R4
+vmplier_m
+R15
+!s110 1740430441
+!i10b 1
+!s100 6eXajVRd^oaPM@99iZL:`2
+IRRh449L^GChX_g6YzDN<43
+S1
+R6
+w1740429718
+Z23 8D:/STMicroelectronics/Assignments/lab3/RSM.sv
+Z24 FD:/STMicroelectronics/Assignments/lab3/RSM.sv
+!i122 42
+L0 1 31
+R9
+R10
+r1
+!s85 0
+31
+!s108 1740430440.000000
+Z25 !s107 D:/STMicroelectronics/Assignments/lab3/RSM.sv|
+Z26 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/STMicroelectronics/Assignments/lab3/RSM.sv|
+!i113 0
+R17
+R4
+vmplier_seq
+!s110 1740123890
+!i10b 1
+!s100 cNEFd0Ie[KcgL^0XcSo=o2
+IggRk=d?nUVZEnUcO<8YoG2
+R6
+w1740123677
+8D:/STMicroelectronics/Assignments/lab3/RightShiftUnsined.v
+FD:/STMicroelectronics/Assignments/lab3/RightShiftUnsined.v
+!i122 26
+L0 1 40
+R9
+R10
+r1
+!s85 0
+31
+!s108 1740123889.000000
+!s107 D:/STMicroelectronics/Assignments/lab3/RightShiftUnsined.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/STMicroelectronics/Assignments/lab3/RightShiftUnsined.v|
+!i113 0
+R13
+R4
+vmplier_signed
+!s110 1740612877
+!i10b 1
+!s100 zihiiR2=0=0QNme[>`@7B3
+I`]j9LI5ILenD_4R^?6KIz0
+R6
+w1740474989
+Z27 8D:/STMicroelectronics/Assignments/lab3/RightShiftAlgorithm.v
+Z28 FD:/STMicroelectronics/Assignments/lab3/RightShiftAlgorithm.v
+!i122 190
+Z29 L0 1 46
+R9
+R10
+r1
+!s85 0
+31
+!s108 1740612877.000000
+Z30 !s107 D:/STMicroelectronics/Assignments/lab3/RightShiftAlgorithm.v|
+Z31 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/STMicroelectronics/Assignments/lab3/RightShiftAlgorithm.v|
+!i113 0
+R13
+R4
+vmplier_tb
+R15
+!s110 1744891111
+!i10b 1
+!s100 c:cMf[k7j5oM6^ZJ]BB`@1
+IW=Ecab`cLF`Le>GJ9aV@53
+S1
+R21
+w1744890795
+Z32 8D:/STMicroelectronics/Assignments/Multipliers/mplier_tb.sv
+Z33 FD:/STMicroelectronics/Assignments/Multipliers/mplier_tb.sv
+!i122 650
+L0 1 61
+R9
+R10
+r1
+!s85 0
+31
+!s108 1744891111.000000
+Z34 !s107 D:/STMicroelectronics/Assignments/Multipliers/mplier_tb.sv|
+Z35 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/STMicroelectronics/Assignments/Multipliers/mplier_tb.sv|
+!i113 0
+R17
+R4
+vmplier_u
+R15
+!s110 1740612878
+!i10b 1
+!s100 lYXEaAEJ`T_FbhFoMQUhV2
+ISbU2mEzn0z=jVg_D[F0Aa3
+S1
+R6
+w1740612552
+R23
+R24
+!i122 192
+R29
+R9
+R10
+r1
+!s85 0
+31
+!s108 1740612878.000000
+R25
+R26
+!i113 0
+R17
+R4
+vradix8_mplier
+Z36 !s110 1744893393
+!i10b 1
+!s100 3@Yfi6lThU9azz7;=PjEz3
+IK@l`MlZa^2IGedaV_3JXh2
+R21
+w1744888564
+8D:/STMicroelectronics/Assignments/Multipliers/radix8_mplier.v
+FD:/STMicroelectronics/Assignments/Multipliers/radix8_mplier.v
+!i122 663
+L0 1 150
+R9
+R10
+r1
+!s85 0
+31
+Z37 !s108 1744893393.000000
+!s107 D:/STMicroelectronics/Assignments/Multipliers/radix8_mplier.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/STMicroelectronics/Assignments/Multipliers/radix8_mplier.v|
+!i113 0
+R13
+R4
+vRadix8_Mplier
+R16
+!i10b 1
+!s100 TmlS]7j4F57gJM`JJMiJW0
+ImNHPTzNWmidSn1@aFPl<c1
+R6
+w1744644726
+8D:/STMicroelectronics/Assignments/lab3/Radix8_Mplier.v
+FD:/STMicroelectronics/Assignments/lab3/Radix8_Mplier.v
+!i122 351
+L0 1 145
+R9
+R10
+r1
+!s85 0
+31
+!s108 1744645678.000000
+!s107 D:/STMicroelectronics/Assignments/lab3/Radix8_Mplier.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/STMicroelectronics/Assignments/lab3/Radix8_Mplier.v|
+!i113 0
+R13
+R4
+n@radix8_@mplier
+vradix8_mplier_tb
+!s110 1744800718
+!i10b 1
+!s100 L<PMiLh5ec=[MUic]mZQo1
+IPeF8oTm@mnOd`8^>K>IjD1
+R6
+w1744797466
+Z38 8D:/STMicroelectronics/Assignments/lab3/arr_mult_tb.v
+Z39 FD:/STMicroelectronics/Assignments/lab3/arr_mult_tb.v
+!i122 441
+L0 140 94
+R9
+R10
+r1
+!s85 0
+31
+!s108 1744800718.000000
+Z40 !s107 D:/STMicroelectronics/Assignments/lab3/arr_mult_tb.v|
+Z41 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/STMicroelectronics/Assignments/lab3/arr_mult_tb.v|
+!i113 0
+R13
+R4
+vright_shift_signed
+!s110 1740267102
+!i10b 1
+!s100 bIBgN`dCl4L:B;FG<J2?02
+IolC5DR89FEeb5AD5Racfo2
+R6
+w1740267092
+R27
+R28
+!i122 40
